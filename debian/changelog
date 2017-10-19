@@ -1,3 +1,9 @@
+ncurses (5.7+20081213-1.maemo1+0m6) unstable; urgency=low
+
+  * Bump version number so its not the same as the stock package
+
+ -- mika yrjola <ext-mika.2.yrjola@nokia.com>  Wed, 18 Oct 2017 20:32:21 -0400
+
 ncurses (5.7+20081213-1.maemo1+0m5) unstable; urgency=low
 
   * This entry has been added by BIFH queue processor
